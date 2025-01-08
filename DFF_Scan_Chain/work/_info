@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/DFF_Scan_Chain
+vDFF_ScanChain
+!s110 1736329017
+!i10b 1
+!s100 Wk9K[4@;NO65E4hg1>_EJ3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIGT`=izbTiW;G8^dnaBgM3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1736329008
+8DFF_ScanChain.v
+FDFF_ScanChain.v
+!i122 3
+L0 1 23
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736329017.000000
+!s107 DFF_ScanChain.v|
+!s90 -reportprogress|300|DFF_ScanChain.v|
+!i113 1
+Z4 tCvgOpt 0
+n@d@f@f_@scan@chain
+vtb_DFF_ScanChain
+!s110 1736329014
+!i10b 1
+!s100 [?3czhZ`l<[oYiWzmWfE@2
+R1
+IdPcXf5b>4X7DQ2agbUOOM0
+R2
+R0
+w1736329004
+8tb_DFF_Scan_Chain.v
+Ftb_DFF_Scan_Chain.v
+!i122 2
+L0 3 51
+R3
+r1
+!s85 0
+31
+!s108 1736329013.000000
+!s107 tb_DFF_Scan_Chain.v|
+!s90 -reportprogress|300|tb_DFF_Scan_Chain.v|
+!i113 1
+R4
+ntb_@d@f@f_@scan@chain
