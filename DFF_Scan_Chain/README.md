@@ -132,5 +132,5 @@ end
 endmodule
 ```
 ## Simulation with ModelSim
-<img src="/media/dff.png">
+<img src=/media/dff.png>
 
