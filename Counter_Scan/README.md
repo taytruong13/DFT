@@ -1,4 +1,4 @@
-# 8-bit Synchronous Counter with Scan Chain Specification
+# 8-bit Synchronous Counter with Scan Chain
 
 This document specifies the design of an 8-bit synchronous counter with scan chain functionality. The counter supports normal counting operation and allows scan chain testing for reading or loading the counter state.
 
