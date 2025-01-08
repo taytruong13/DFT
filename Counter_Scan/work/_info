@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/Counter_Scan
+vcounter_scan
+!s110 1736345300
+!i10b 1
+!s100 zSLie7o_N;;36H8X0:??;1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEGI6@f2P_KBWTVOl1<O713
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1736344474
+8counter_scan.v
+Fcounter_scan.v
+!i122 1
+L0 1 30
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736345300.000000
+!s107 counter_scan.v|
+!s90 -reportprogress|300|counter_scan.v|
+!i113 1
+Z4 tCvgOpt 0
+vtb_counter_scan
+!s110 1736345982
+!i10b 1
+!s100 ^SO2cI[>XCDMZJ9C>20Y[3
+R1
+Ij5<UBLNTS=aPcYD4`:Sa00
+R2
+R0
+w1736345969
+8tb_counter_scan.v
+Ftb_counter_scan.v
+!i122 2
+L0 2 56
+R3
+r1
+!s85 0
+31
+!s108 1736345982.000000
+!s107 tb_counter_scan.v|
+!s90 -reportprogress|300|tb_counter_scan.v|
+!i113 1
+R4
