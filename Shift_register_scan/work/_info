@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/Shift_register_scan
+vshift_register_scan
+!s110 1736333381
+!i10b 1
+!s100 fI:^94;`1^S`>9H4Kd1bQ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKX]WRloPF=X=_dBZREn]62
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1736332574
+8shift_register_scan.v
+Fshift_register_scan.v
+!i122 1
+L0 1 32
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736333381.000000
+!s107 shift_register_scan.v|
+!s90 -reportprogress|300|shift_register_scan.v|
+!i113 1
+Z4 tCvgOpt 0
+vtb_shift_register_scan
+!s110 1736333376
+!i10b 1
+!s100 D;[fZ6[V6d2jRgI@d=AIC2
+R1
+IgJkBBBoCMfPNc`W6ejjN60
+R2
+R0
+w1736333302
+8tb_shift_register_scan.v
+Ftb_shift_register_scan.v
+!i122 0
+L0 2 53
+R3
+r1
+!s85 0
+31
+!s108 1736333375.000000
+!s107 tb_shift_register_scan.v|
+!s90 -reportprogress|300|tb_shift_register_scan.v|
+!i113 1
+R4
