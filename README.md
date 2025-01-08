@@ -35,4 +35,4 @@ This repository contains a series of RTL Verilog designs and testbenches for pra
 ### How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/taytruong13/DFT_Scan_Chain_Practice.git
+   git clone https://github.com/taytruong13/DFT.git
