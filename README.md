@@ -32,7 +32,7 @@ You can use tools like GTKWave or ModelSim to visualize the results.
 Contributions are welcome! If you have additional DFT examples or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]("LICENSE.txt") file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
