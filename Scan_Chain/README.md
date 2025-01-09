@@ -37,6 +37,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: taytruong13@gmail.com
-GitHub: [taytruong13](github.com/taytruong13)
-LinkedIn: [taytruong13](linkedin.com/taytruong13)
+- Email: taytruong13@gmail.com
+- GitHub: [taytruong13](github.com/taytruong13)
+- LinkedIn: [taytruong13](linkedin.com/taytruong13)
+
+---
+Thank you for visiting this repository! I hope this demonstrates my skills and enthusiasm for RTL design and DFT. 🚀
