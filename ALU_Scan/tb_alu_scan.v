@@ -21,7 +21,7 @@ always #5 clk = ~clk;
 	task check_result;
 		input [3:0] expected_result;
 		input [3:0] actual_result;
-		input [7:0] operation; 
+		input [31:0] operation; 
 		begin 
 			if(expected_result == actual_result) begin 
 				$display("%s: PASS (Expected=%b, Actual=%b)", operation, expected_result, actual_result);
@@ -87,8 +87,9 @@ initial begin
     scan_in = 1; #10;
 	
 	// Observe scan_out 
-	check_result(4'b1011, result, "SC");
+	check_result(4'b1011, result, "SCAN");
 	
 	// Finish simulation 
 	$stop;
- endmodule
+end 
+endmodule

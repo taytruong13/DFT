@@ -1,0 +1,209 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/ALU_Scan
+valu_scan
+Z1 !s110 1736395817
+!i10b 1
+!s100 P[<JCnhM[MS]=e`3=hSDE1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL21GMCf=0g=W5Fik>5@e@2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1736395812
+Z5 8Alu_scan.v
+Z6 FAlu_scan.v
+!i122 2
+L0 2 45
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1736395817.000000
+Z9 !s107 Alu_scan.v|
+Z10 !s90 -reportprogress|300|Alu_scan.v|
+!i113 1
+Z11 tCvgOpt 0
+vand_4bit
+R1
+!i10b 1
+!s100 mgFVjnFI1dC=7R1n>l;km1
+R2
+IcfZcUTGfE6fFVR5`d5bgb0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 113 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vco2_4bit
+R1
+!i10b 1
+!s100 e3kCA0C`hVi1ZkZ:9Id=^2
+R2
+Io;4R5fzZES0eBb:KFDG=;0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 91 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vfull_adder
+R1
+!i10b 1
+!s100 bibz:I4o8??@m_Ab<6Yf:3
+R2
+IKEz;]:E90gkDl6ilo_lbC0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 50 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vfull_adder_4bit
+R1
+!i10b 1
+!s100 LjiBaO9RIJNQVcAL6UzdP3
+R2
+IbCG8zazVkmfQFlg7O]eOI2
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 62 15
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vnot_4bit
+R1
+!i10b 1
+!s100 eI7;j4[ZO@NoNXPQ2dSXT1
+R2
+I@_oOZd^7bddg^V0`?Gj5Z0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 102 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vor_4bit
+R1
+!i10b 1
+!s100 6E>j]USE10z>g0LK7BPPA1
+R2
+I:;4TMj;fN3mdKeZzj<^QP3
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 125 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vsub_4bit
+R1
+!i10b 1
+!s100 1Bb@Y0bj1XmKgeb7SJUhW2
+R2
+I@G3TDBLe8d9mk>BEIP:HT3
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 79 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vtb_alu_scan
+!s110 1736396024
+!i10b 1
+!s100 S^43H0cX=L0]4KG?]>?KH0
+R2
+I2ZdMkPm?I]`Waezz`b>Om2
+R3
+R0
+w1736396010
+8tb_alu_scan.v
+Ftb_alu_scan.v
+!i122 4
+L0 2 94
+R7
+r1
+!s85 0
+31
+!s108 1736396024.000000
+!s107 tb_alu_scan.v|
+!s90 -reportprogress|300|tb_alu_scan.v|
+!i113 1
+R11

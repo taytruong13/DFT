@@ -26,7 +26,7 @@ module alu_scan(
 	
 	always @(posedge clk or negedge rst) begin
 		if (!rst) begin
-			state <= 4'b0; 	// Reset ALU result 
+			result <= 4'b0; 	// Reset ALU result 
 		end else if (scan_en) begin 
 			// Scan mode: Shift left and input scan_in 
 			result <= {result[2:0], scan_in};
