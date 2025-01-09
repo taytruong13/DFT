@@ -51,7 +51,7 @@ An asynchronous active-low reset (`reset`) is provided to reset the counter valu
 
 ---
 ## RTL Design code (in Verilog)
-```
+```verilog
 module counter_scan(
 	input wire clk, 		// Clock signal
 	input wire rst,			// Active-low reset
@@ -84,7 +84,7 @@ end
 endmodule
 ```
 ## Testbench
-```
+```verilog
 `timescale 1ns/1ps
 module tb_counter_scan();
 	reg clk;
