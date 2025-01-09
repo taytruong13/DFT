@@ -51,7 +51,7 @@ Additionally, the shift register features an asynchronous active-low reset (`rst
 
 ---
 ## RTL Design Code (in Verilog)
-```
+```verilog
 module shift_register_scan(
 	input wire clk, 		// Clock signal
 	input wire data_in,		// Data input for normal operation
@@ -86,7 +86,7 @@ end
 endmodule 
 ```
 ## Testbench
-```
+```verilog
 `timescale 1ns/1ps
 module tb_shift_register_scan();
 	reg clk;
