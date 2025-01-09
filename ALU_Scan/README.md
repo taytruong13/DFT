@@ -198,7 +198,7 @@ module or_4bit(
 endmodule 	
 ```
 ## Testbench
-```
+```verilog
 `timescale 1ns/1ps
 module tb_alu_scan();
 	reg [1:0] op_code;
