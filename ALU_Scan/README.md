@@ -61,7 +61,7 @@ An asynchronous active-low `rst` is provided to initialize the ALU state.
 
 ---
 ## RTL Design Code (in Verilog)
-```
+```verilog
 // 40bit ALU withj Scan Chain (DFT)
 module alu_scan(
 	input wire [1:0] op_code, 	// Operation code
