@@ -25,14 +25,18 @@ This repository contains a series of RTL Verilog designs and testbenches for pra
 - Step-by-step practice from beginner to advanced DFT concepts.
 
 ---
+## Simulation Results
+All designs have been tested with testbenches, and waveforms have been verified for functionality.
+You can use tools like GTKWave or ModelSim to visualize the results.
+## Contributing
+Contributions are welcome! If you have additional DFT examples or improvements, feel free to open an issue or submit a pull request.
 
-## **Getting Started**
+## License
+This project is licensed under the MIT License. See the [LICENSE]("LICENSE.txt") file for details.
 
-### Prerequisites
-- Verilog simulator (e.g., **ModelSim**, **Vivado**, or **Icarus Verilog**).
-- Basic understanding of RTL design and DFT concepts.
+## Contact
+If you have any questions or suggestions, feel free to reach out:
 
-### How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/taytruong13/DFT.git
+Email: taytruong13@gmail.com
+GitHub: [taytruong13](github.com/taytruong13)
+LinkedIn: [taytruong13](linkedin.com/taytruong13)
