@@ -50,7 +50,7 @@ Additionally, the flip-flop features an asynchronous active-low reset (`reset`) 
 ---
 
 ## RTL Design code (in Verilog)
-```
+```verilog
 module DFF_ScanChain(
 	input wire clk,
 	input wire D,
@@ -76,7 +76,7 @@ module DFF_ScanChain(
 endmodule
 ```
 ## Testbench
-```
+```verilog
 `timescale 1ns/1ps
 
 module tb_DFF_ScanChain;
