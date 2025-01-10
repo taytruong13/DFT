@@ -34,7 +34,7 @@ Each project in this repository is self-contained and designed to be practical, 
 - **Objective**: Design a 4-bit LFSR with tap positions [4, 1].
 - **Key Features**: 
   - Generates a pseudo-random sequence with a full cycle.
-  - Includes `clk`, `reset`, and `enable` signals.
+  - Includes `clk`, `rst`, and `enable` signals.
 - **Learning Outcome**: Understand LFSR mechanics and feedback logic.
 
 ### **2. Test Pattern Generation with LFSR**
