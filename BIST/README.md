@@ -1,4 +1,4 @@
-# **Built-In Self-Test (BIST) Projects for RTL Design Practice**
+# **Built-In Self-Test (BIST) Projects for DFT Practice**
 
 Welcome to the **Built-In Self-Test (BIST)** repository! This repository contains 5 practical exercises aimed at demonstrating the principles of **Design-for-Testability (DFT)** at the RTL (Register Transfer Level) and showcasing the use of **Linear Feedback Shift Register (LFSR)** and **Multiple Input Signature Register (MISR)** in BIST applications.
 
