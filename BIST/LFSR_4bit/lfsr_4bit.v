@@ -1,8 +1,8 @@
 // Module 4-bit LFSR (Linear Feedback Shift Register) with taps at [4, 1]
 module lfsr_4bit(
-	input clk,
-	input rst,
-	input enable,
+	input wire clk,
+	input wire rst,
+	input wire enable,
 	output reg [3:0] lfsr
 );
 	always @(posedge clk or posedge rst) begin 
