@@ -126,7 +126,7 @@ endmodule
 
 ---
 
-## **Simulation on ModelSim
+## Simulation on ModelSim
 <img src="media/lfsr_4bit.png"/>
 
 ---
