@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/BIST/LFSR_4bit
+vlfsr_4bit
+!s110 1736508877
+!i10b 1
+!s100 YX;?6iUSBQ8D05hdm_8a;3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_U^T6PTW[bBUDP1C;lW5_2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1736505195
+8lfsr_4bit.v
+Flfsr_4bit.v
+!i122 1
+L0 2 14
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736508877.000000
+!s107 lfsr_4bit.v|
+!s90 -reportprogress|300|lfsr_4bit.v|
+!i113 1
+Z4 tCvgOpt 0
+vtb_lfsr_4bit
+!s110 1736509118
+!i10b 1
+!s100 =zMYW]FfSdZ;9d23n3XlQ2
+R1
+InA:@h<5IPGAi?Cn_4R33d1
+R2
+R0
+w1736509112
+8tb_lfsr_4bit.v
+Ftb_lfsr_4bit.v
+!i122 3
+L0 4 33
+R3
+r1
+!s85 0
+31
+!s108 1736509118.000000
+!s107 tb_lfsr_4bit.v|
+!s90 -reportprogress|300|tb_lfsr_4bit.v|
+!i113 1
+R4
