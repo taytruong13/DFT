@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/BIST/LFSR_MISR
+vadder_4bit
+!s110 1736608929
+!i10b 1
+!s100 lfMXi82g70j8=E[Q4;NdT0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_36lWKT8<W@Gn^Uh1OOe53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1736523370
+8adder_4bit.v
+Fadder_4bit.v
+!i122 2
+L0 2 7
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736608929.000000
+!s107 adder_4bit.v|
+!s90 -reportprogress|300|adder_4bit.v|
+!i113 1
+Z4 tCvgOpt 0
+vbist_system
+!s110 1736609315
+!i10b 1
+!s100 OHDijhej05@]ZFi`NzM]b0
+R1
+ICaEc^maIhcf8W?UjdZD_C0
+R2
+R0
+w1736609301
+8bist_system.v
+Fbist_system.v
+!i122 8
+L0 2 25
+R3
+r1
+!s85 0
+31
+!s108 1736609315.000000
+!s107 bist_system.v|
+!s90 -reportprogress|300|bist_system.v|
+!i113 1
+R4
+vlfsr_8bit
+!s110 1736608925
+!i10b 1
+!s100 0Y;]R3?dXKjXllPB[jMHW3
+R1
+IBV_f`j^SlF[S>GiDChPCo0
+R2
+R0
+w1736523160
+8lfsr_8bit.v
+Flfsr_8bit.v
+!i122 0
+L0 1 15
+R3
+r1
+!s85 0
+31
+!s108 1736608924.000000
+!s107 lfsr_8bit.v|
+!s90 -reportprogress|300|lfsr_8bit.v|
+!i113 1
+R4
+vmisr_4bit
+!s110 1736608927
+!i10b 1
+!s100 IAMjYW0O37JS=ZT65Z^UV1
+R1
+IPLB=cd3@VX@_RkVZX=YB61
+R2
+R0
+w1736523687
+8misr_4bit.v
+Fmisr_4bit.v
+!i122 1
+L0 2 15
+R3
+r1
+!s85 0
+31
+!s108 1736608927.000000
+!s107 misr_4bit.v|
+!s90 -reportprogress|300|misr_4bit.v|
+!i113 1
+R4
+vtb_bist_system
+!s110 1736610404
+!i10b 1
+!s100 VYfkQP;TljFM6_k;jOX=P2
+R1
+IePYO=mOFGOh]h]J_QNc=e3
+R2
+R0
+w1736610393
+8tb_bist_system.v
+Ftb_bist_system.v
+!i122 10
+L0 2 34
+R3
+r1
+!s85 0
+31
+!s108 1736610404.000000
+!s107 tb_bist_system.v|
+!s90 -reportprogress|300|tb_bist_system.v|
+!i113 1
+R4
