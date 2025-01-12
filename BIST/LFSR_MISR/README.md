@@ -5,6 +5,7 @@ This document specifies the design of a Built-In Self-Test (BIST) system integra
 ---
 ## BIST Architecture
 <img src="media/BIST_Architecture.png"/>
+
 ## System Components
 
 ### 8-bit LFSR
