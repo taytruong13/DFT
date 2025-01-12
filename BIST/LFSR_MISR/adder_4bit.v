@@ -2,7 +2,7 @@
 module adder_4bit(
 	input wire [3:0] A,
 	input wire [3:0] B, 
-	output [3:0] S
+	output wire [3:0] S
 );
 	assign S =  A + B; 
 endmodule 

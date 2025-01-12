@@ -10,7 +10,7 @@ module misr_4bit(
 		if(rst) begin 
 			misr <= 4'b0001; // Initial non-zero state
 		end else if (enable) begin 
-			misr <= {misr[2:0], misr[3]^adder_out[3]} ^ adder_out[2:0];
+			misr <= {misr[2:0], misr[3]^misr[0]} ^ adder_out[3:0];
 		end
 	end 
 endmodule 

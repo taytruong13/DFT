@@ -33,7 +33,10 @@ This document specifies the design of a Built-In Self-Test (BIST) system integra
   - `adder_out[3:0]`: Output from the Adder.
 - **Output Ports**:
   - `misr[3:0]`: Current value of the MISR (signature).
-- **Feedback**: XOR operation with taps at positions [4, 3].
+- **Feedback**: XOR operation with taps at positions [4, 1] then XOR operation with `adder_out[3:0]`:
+```Verilog
+misr <= {misr[2:0], misr[3]^misr[0]} ^ adder_out[3:0];
+```
 
 ---
 
@@ -195,12 +198,11 @@ endmodule
   - LFSR and MISR are initialized to non-zero states to avoid lock-up conditions.
 - **Feedback Logic**:
   - LFSR taps: [8, 6].
-  - MISR taps: [4, 3].
+  - MISR taps at [4, 1] then XOR with input is `adder_output`. By the function: `misr <= {misr[2:0], misr[3] ^ misr[0]} ^ adder_out[3:0]`
 - **Clock Synchronization**:
   - All modules operate synchronously using the same clock signal.
 
 ---
-
 ## Usage
 1. Compile the Verilog modules and testbench.
 2. Run the simulation and observe the outputs.
