@@ -3,7 +3,8 @@
 This document specifies the design of a Built-In Self-Test (BIST) system integrating an 8-bit Linear Feedback Shift Register (LFSR) for generating test vectors, a 4-bit Adder for performing operations, and a 4-bit Multiple Input Signature Register (MISR) for compressing the outputs into a signature. The BIST system is designed to validate the functionality of the Adder and provide self-test capability.
 
 ---
-
+## BIST Architecture
+<img src="media/BIST_Architecture"/>
 ## System Components
 
 ### 8-bit LFSR
