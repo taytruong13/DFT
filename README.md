@@ -20,6 +20,8 @@ This repository contains the following directories:
 - **Key Learning Areas**:
   - Understanding the concept and working of scan flip-flops.
   - Designing scan chains for fault detection and observability.
+- **List of projects**:
+  - (Updating)
 
 ---
 
@@ -34,6 +36,8 @@ This repository contains the following directories:
   - Random pattern generation using LFSR.
   - Signature compression and fault detection.
   - Building complete BIST systems for digital circuits.
+- **List of projects**:
+  - (Updating)
 
 ---
 
