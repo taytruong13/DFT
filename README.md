@@ -49,6 +49,18 @@ This repository contains the following directories:
 - Focused on real-world DFT applications to highlight practical expertise.
 
 ---
+## A Note to Recruiters
+I believe my dedication and self-learning ability will serve as a solid foundation for my growth in the semiconductor field.
+This repository is the clearest demonstration of my commitment, learning process, and determination to achieve my career goals.
+I am eager to apply what I have learned and further develop my skills in a professional working environment.
+
+If you are interested in learning more about me or discussing potential career opportunities, please don’t hesitate to reach out:
+
+📧 Email: [taytruong13@gmail.com](taytruong13@gmail.com)
+
+🌐 LinkedIn: [linkedin.com/in/taytruong13](linkedin.com/in/taytruong13)
+
+---
 
 ## **How to Use This Repository**
 
