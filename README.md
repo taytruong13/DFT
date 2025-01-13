@@ -21,7 +21,7 @@ This repository contains the following directories:
   - Understanding the concept and working of scan flip-flops.
   - Designing scan chains for fault detection and observability.
 - **List of projects**:
-  - (Updating)
+  - (will be updated once completed)
 
 ---
 
@@ -37,7 +37,7 @@ This repository contains the following directories:
   - Signature compression and fault detection.
   - Building complete BIST systems for digital circuits.
 - **List of projects**:
-  - (Updating)
+  - (will be updated once completed)
 
 ---
 
