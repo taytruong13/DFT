@@ -5,15 +5,15 @@ This repository contains a series of RTL Verilog designs and testbenches for pra
 ---
 
 ## **Contents**
-1. **D Flip-Flop with Scan Chain**
+1. [**D Flip-Flop with Scan Chain**](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/DFF_Scan_Chain)
    - A basic D flip-flop enhanced with scan chain functionality.
-2. **4-bit Shift Register with Scan Chain**
+2. [**4-bit Shift Register with Scan Chain**](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/Shift_register_scan)
    - A shift register supporting scan input and scan output.
-3. **8-bit Counter with Scan Chain**
+3. [**8-bit Counter with Scan Chain**](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/Counter_Scan)
    - A synchronous counter with state monitoring via scan chain.
-4. **4-bit ALU with Scan Chain**
+4. [**4-bit ALU with Scan Chain**](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/ALU_Scan)
    - An arithmetic logic unit with scan chain for functional testing.
-5. **Finite State Machine (FSM) with Scan Chain**
+5. **Finite State Machine (FSM) with Scan Chain** *(Will be updated once completed)*
    - A 3-state FSM capable of state verification through scan chain.
 
 ---
