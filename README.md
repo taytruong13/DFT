@@ -1,4 +1,4 @@
-# **DFT (Design-for-Testability) Portfolio**
+# DFT (Design-for-Testability) Portfolio
 
 Welcome to my **DFT (Design-for-Testability or Design-for-Test)** portfolio repository! This repository showcases my practical projects and exercises in DFT, focusing on RTL (Register Transfer Level) implementations of essential techniques such as **Scan Chain** and **Built-In Self-Test (BIST)**.
 
@@ -6,11 +6,11 @@ The purpose of this repository is to demonstrate my technical skills, problem-so
 
 ---
 
-## **Repository Structure**
+## Repository Structure
 
 This repository contains the following directories:
 
-### 1. **[Scan_Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain)**
+### 1. [Scan_Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain)
 - **Overview**: 
   - This directory focuses on the implementation of **Scan Chain**, a fundamental DFT technique used for enhancing the testability of sequential circuits.
 - **Highlights**:
@@ -21,11 +21,20 @@ This repository contains the following directories:
   - Understanding the concept and working of scan flip-flops.
   - Designing scan chains for fault detection and observability.
 - **List of projects**:
-  - (will be updated once completed)
+  - [D Flip-Flop with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/DFF_Scan_Chain)
+    - A Basic D Flip-Flop enhanced with scan chain functionality.
+  - [4-bit Shift Register with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/Shift_register_scan)
+    - A shift register supporting scan input and scan output.
+  - [8-bit Counter with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/Counter_Scan)
+    - A synchronous counter with state monitoring via scan chain.
+  - [4-bit ALU with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/ALU_Scan)
+    - An arithmetic logic unit with scan chain for functional testing.
+  - Finite State Machine (FSM) with scan chain *(Will be updated once completed)*
+    - A 3-state FSM capable of state verification through scan chain.
 
 ---
 
-### 2. **[BIST](https://github.com/taytruong13/DFT/tree/main/BIST)**
+### 2. [BIST](https://github.com/taytruong13/DFT/tree/main/BIST)
 - **Overview**:
   - This directory contains 5 exercises focusing on **Built-In Self-Test (BIST)**, a DFT technique for self-testing hardware modules.
 - **Highlights**:
@@ -41,7 +50,7 @@ This repository contains the following directories:
 
 ---
 
-## **Key Features**
+## Key Features
 
 - All designs and testbenches are implemented in **Verilog**.
 - Testbenches are designed to verify the functionality of the implemented circuits with waveform outputs.
@@ -62,24 +71,24 @@ If you are interested in learning more about me or discussing potential career o
 
 ---
 
-## **How to Use This Repository**
+## How to Use This Repository
 
-### **Clone the Repository**
+### Clone the Repository
 ```bash
 git clone https://github.com/taytruong13/DFT.git
 cd DFT
 ```
 
-### **Explore the Directories**
+### Explore the Directories
 - Navigate to the specific directory (e.g., `Scan_Chain` or `BIST`) to review the projects and exercises.
 
-### **Run the Simulations**
+### Run the Simulations
 - Use any Verilog simulator (e.g., ModelSim, Xilinx Vivado, Icarus Verilog) to run the testbenches provided in each directory.
 - Check individual README files for detailed instructions.
 
 ---
 
-## **Future Work**
+## Future Work
 
 - Expand the repository with more advanced DFT topics such as **ATPG (Automatic Test Pattern Generation)**, **Boundary Scan**, and **Fault Grading**.
 - Add fault coverage analysis and optimization techniques.
@@ -87,7 +96,7 @@ cd DFT
 
 ---
 
-## **Contact**
+## Contact
 
 If you find this repository useful or have any questions, please feel free to reach out:
 
