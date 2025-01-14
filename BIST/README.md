@@ -31,21 +31,21 @@ Each project in this repository is self-contained and designed to be practical, 
 <a name="list_projects"></a>
 ## List of Projects
 
-### [1. LFSR Basics](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_4bit)
+### 1. [LFSR Basics](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_4bit)
 - **Objective**: Design a 4-bit LFSR with tap positions [4, 1].
 - **Key Features**: 
   - Generates a pseudo-random sequence with a full cycle.
   - Includes `clk`, `rst`, and `enable` signals.
 - **Learning Outcome**: Understand LFSR mechanics and feedback logic.
 
-### [2. Test Pattern Generation with LFSR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_3inANDgate)
+### 2. [Test Pattern Generation with LFSR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_3inANDgate)
 - **Objective**: Use an 8-bit LFSR to generate test patterns for a 3-input AND gate.
 - **Key Features**: 
   - Random pattern generation.
   - Automatic input stimulation for logic testing.
 - **Learning Outcome**: Demonstrate LFSR integration for random test vector generation.
 
-### [3. Integrating LFSR with MISR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_MISR)
+### 3. [Integrating LFSR with MISR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_MISR)
 - **Objective**: Combine LFSR (test pattern generator) and MISR (signature compression) for testing a 4-bit Adder.
 - **Key Features**: 
   - Random vector generation by LFSR.
