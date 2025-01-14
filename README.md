@@ -46,7 +46,16 @@ This repository contains the following directories:
   - Signature compression and fault detection.
   - Building complete BIST systems for digital circuits.
 - **List of projects**:
-  - (will be updated once completed)
+  - [LFSR (Linear Feedback Shift Register) Basics](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_4bit)
+    - Design a 4-bit LFSR with tap positions `[4, 1]`
+  - [Test Pattern Generation with LFSR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_3inANDgate)
+    - Use an 4-bit LFSR to generate test patterns for a 3-input AND gate.
+  - [Integrating LFSR with MISR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_MISR)
+    - Combine LFSR (test pattern generator) and MISR (signature compression) for testing a 4-bit Adder.
+  - [Fault Detection Using LFSR]() *(will be updated once completed)*
+    - Detect stuck-at faults in a 4-bit XOR gate using LFSR and MISR
+  - [Complete BIST System]() *(will be updated once completed)*
+    - Build a complete BIST system for a 4-bit Multiplier. 
 
 ---
 
