@@ -52,7 +52,7 @@ Each project in this repository is self-contained and designed to be practical, 
   - Signature compression by MISR.
 - **Learning Outcome**: Learn how LFSR and MISR collaborate in a BIST flow.
 
-### 4. [Fault Detection Using LFSR]()
+### 4. [Fault Detection Using LFSR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR-based_Error_Detector)
 - **Objective**: Detect stuck-at faults in a 4-bit XOR gate using LFSR and MISR.
 - **Key Features**: 
   - Fault injection for testing.
