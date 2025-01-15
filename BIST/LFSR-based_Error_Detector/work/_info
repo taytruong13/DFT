@@ -1,0 +1,125 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/Verilog/DFT/BIST/LFSR-based_Error_Detector
+vcomparator
+!s110 1736952882
+!i10b 1
+!s100 CBFk7QWiU^mI;00Wh6dT`0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYQFGIJW?QN?`Dk>1=7X[n3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1736917193
+8comparator.v
+Fcomparator.v
+!i122 1
+Z3 L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1736952882.000000
+!s107 comparator.v|
+!s90 -reportprogress|300|comparator.v|
+!i113 1
+Z5 tCvgOpt 0
+vLFSR_8bit
+!s110 1736952876
+!i10b 1
+!s100 HgfUVd00@BB3<^MR6E7?z0
+R1
+I8YMhHRDA<0=LdlgQ83nbl3
+R2
+R0
+w1736916057
+8lfsr_8bit.v
+Flfsr_8bit.v
+!i122 0
+L0 1 13
+R4
+r1
+!s85 0
+31
+!s108 1736952876.000000
+!s107 lfsr_8bit.v|
+!s90 -reportprogress|300|lfsr_8bit.v|
+!i113 1
+R5
+n@l@f@s@r_8bit
+vMISR_4bit
+!s110 1736952992
+!i10b 1
+!s100 8o_icPZ5A7B<8ZPio:Z1]2
+R1
+IeHmF7LQ[FVG8:C;G[b8TL1
+R2
+R0
+w1736952988
+8MISR_4bit.v
+FMISR_4bit.v
+!i122 3
+L0 1 14
+R4
+r1
+!s85 0
+31
+!s108 1736952992.000000
+!s107 MISR_4bit.v|
+!s90 -reportprogress|300|MISR_4bit.v|
+!i113 1
+R5
+n@m@i@s@r_4bit
+vtb_LFSR_test
+!s110 1736955753
+!i10b 1
+!s100 hTB79X?4A`V[FZ27T:oGl0
+R1
+I?lSH4P9U<f]EYF^zc3KMY2
+R2
+R0
+w1736955745
+8tb_LFSR_test.v
+Ftb_LFSR_test.v
+!i122 11
+L0 2 48
+R4
+r1
+!s85 0
+31
+!s108 1736955753.000000
+!s107 tb_LFSR_test.v|
+!s90 -reportprogress|300|tb_LFSR_test.v|
+!i113 1
+R5
+ntb_@l@f@s@r_test
+vXOR_4bit
+!s110 1736952927
+!i10b 1
+!s100 RhMUzY9iId<zgKGM1hCZN0
+R1
+IUPEVm`lh<5HB^hOEz@7m70
+R2
+R0
+w1736952924
+8XOR_4bit.v
+FXOR_4bit.v
+!i122 2
+R3
+R4
+r1
+!s85 0
+31
+!s108 1736952927.000000
+!s107 XOR_4bit.v|
+!s90 -reportprogress|300|XOR_4bit.v|
+!i113 1
+R5
+n@x@o@r_4bit
