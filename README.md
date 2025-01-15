@@ -52,7 +52,7 @@ This repository contains the following directories:
     - Use an 4-bit LFSR to generate test patterns for a 3-input AND gate.
   - [Integrating LFSR with MISR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR_MISR)
     - Combine LFSR (test pattern generator) and MISR (signature compression) for testing a 4-bit Adder.
-  - [Fault Detection Using LFSR]() *(will be updated once completed)*
+  - [Fault Detection Using LFSR](https://github.com/taytruong13/DFT/tree/main/BIST/LFSR-based_Error_Detector)
     - Detect stuck-at faults in a 4-bit XOR gate using LFSR and MISR
   - [Complete BIST System]() *(will be updated once completed)*
     - Build a complete BIST system for a 4-bit Multiplier. 
