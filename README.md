@@ -29,7 +29,7 @@ This repository contains the following directories:
     - A synchronous counter with state monitoring via scan chain.
   - [4-bit ALU with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/ALU_Scan)
     - An arithmetic logic unit with scan chain for functional testing.
-  - Finite State Machine (FSM) with scan chain *(Will be updated once completed)*
+  - [Finite State Machine (FSM) with scan chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/FSM_Scan_Chain)
     - A 3-state FSM capable of state verification through scan chain.
 
 ---
