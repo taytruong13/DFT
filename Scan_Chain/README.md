@@ -33,7 +33,7 @@ Scan Chain is a crucial technique in Design for Testability (DFT) that enhances 
    - A synchronous counter with state monitoring via scan chain.
 4. [4-bit ALU with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/ALU_Scan)
    - An arithmetic logic unit with scan chain for functional testing.
-5. Finite State Machine (FSM) with Scan Chain *(Will be updated once completed)*
+5. [Finite State Machine (FSM) with Scan Chain](https://github.com/taytruong13/DFT/tree/main/Scan_Chain/FSM_Scan_Chain)
    - A 3-state FSM capable of state verification through scan chain.
 
 ---
