@@ -144,4 +144,4 @@ end
 endmodule
 ```
 ## Simulation on ModelSim
-<img src="media/counter.pgn"/>
+<img src="media/counter.png"/>
