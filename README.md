@@ -110,8 +110,8 @@ cd DFT
 If you find this repository useful or have any questions, please feel free to reach out:
 
 - Email: taytruong13@gmail.com
-- GitHub: [taytruong13](github.com/taytruong13)
-- LinkedIn: [taytruong13](linkedin.com/taytruong13)
+- GitHub: [taytruong13](HTTP://github.com/taytruong13)
+- LinkedIn: [taytruong13](HTTP://linkedin.com/in/taytruong13)
 
 ---
 

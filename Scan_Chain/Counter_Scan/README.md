@@ -19,7 +19,7 @@ An asynchronous active-low reset (`reset`) is provided to reset the counter valu
 | Signal        | Direction | Width | Description     |
 |:-------------:|:---------:|:-----:|-----------------|
 | `clk`         | Input     | 1     | Clock signal. The counter updates on the rising edge.   |
-| `reset`       | Input     | 1     | Asynchronous active-low reset. Resets the counter to `0`.   |
+| `rst`         | Input     | 1     | Asynchronous active-low reset. Resets the counter to `0`.   |
 | `enable`      | Input     | 1     | Enables counting when set to `1`.   |
 | `count_out`   | Output    | 8     | Current value of the counter in normal operation.   |
 | `scan_enable` | Input     | 1     | Enables scan mode when set to `1`. |
@@ -31,9 +31,9 @@ An asynchronous active-low reset (`reset`) is provided to reset the counter valu
 ## Functional Behavior
 
 ### Reset Behavior
-- When `reset` is asserted (`reset = 0`):
+- When `rst` is asserted (`rst = 0`):
   - The counter value is reset to `0`, regardless of other signals.
-- When `reset` is deasserted (`reset = 1`):
+- When `rst` is deasserted (`rst = 1`):
   - The counter operates normally, either incrementing or shifting data based on the mode.
 
 ### Normal Mode
@@ -144,4 +144,4 @@ end
 endmodule
 ```
 ## Simulation on ModelSim
-<img src="media/counter.pgn"/>
+<img src="media/counter.png"/>
