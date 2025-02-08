@@ -47,7 +47,7 @@ end
 	// Monitor signals
 initial begin
 	$monitor("Time=%5d | D=%b | rst=%b | scan_en=%b | scan_in=%b | Q=%b | scan_out=%b",
-			$time, D, rst, scan_en, scan_in, Q, scan_out);
+			$time, D, clk, rst, scan_en, scan_in, Q, scan_out);
 end
 
 endmodule

@@ -33,23 +33,23 @@ r1
 Z4 tCvgOpt 0
 n@d@f@f_@scan@chain
 vtb_DFF_ScanChain
-!s110 1736329014
+!s110 1739002608
 !i10b 1
-!s100 [?3czhZ`l<[oYiWzmWfE@2
+!s100 3dJ]Xo6o]Ud<F7M52PGYF3
 R1
-IdPcXf5b>4X7DQ2agbUOOM0
+IRe=_?<Kg1143@mDiL?GN23
 R2
-R0
-w1736329004
+dD:/Github/Verilog/DFT/Scan_Chain/DFF_Scan_Chain
+w1739002601
 8tb_DFF_Scan_Chain.v
 Ftb_DFF_Scan_Chain.v
-!i122 2
+!i122 5
 L0 3 51
 R3
 r1
 !s85 0
 31
-!s108 1736329013.000000
+!s108 1739002608.000000
 !s107 tb_DFF_Scan_Chain.v|
 !s90 -reportprogress|300|tb_DFF_Scan_Chain.v|
 !i113 1
