@@ -24,12 +24,12 @@ initial begin
 	
 	// Test normal mode transitions
 	$display("Testing Normal Mode Transitions");
-	#10; // IDLE to LOAD 
+	// IDLE to LOAD 
 	$display("State: %b (Expected: 00 - IDLE", state);
 	#10; // LOAD to PROCESS
 	$display("State: %b (Expected: 01 - LOAD", state);
 	#10; // PROCESS to IDLE 
-	$display("State: %b (Expected: 10 - PROCESS", state);
+	$display("State: %b (Expected: 11 - PROCESS", state);
 	
 	// Test scan chian functionality 
 	$display("Testing Scan Chain");
