@@ -38,7 +38,7 @@ This document outlines the functionality and signal definitions for a finite sta
 3. **Scan Chain Mode:**
    - When `scan_en` is asserted (high), the FSM enters scan mode.
    - In scan mode, the FSM shifts states serially through the `scan_in` and `scan_out` signals.
-   - The `scan_out` signal reflects the least significant bit of the state register.
+   - The `scan_out` signal reflects the most significant bit of the state register.
 
 
 ---
